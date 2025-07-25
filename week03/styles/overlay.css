@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+body{
+	font-family: 'Brush Script Mt';
+}
+
 main {
 	max-width: 800px;
 	margin: 2rem auto;
